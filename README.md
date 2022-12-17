@@ -18,3 +18,8 @@ Open 2 terminals:
    _If this gives an error, please install Nodejs first._
 
 The script to connect to Five Server (`<script async data-id="five-server" src="http://localhost:5500/fiveserver.js"></script>`) has been added to [`header.php`](www/layout/header.php).
+
+## Video
+
+Maybe you're also interested in watching this video:  
+https://youtu.be/Qk3WRkzUB88
