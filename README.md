@@ -12,7 +12,7 @@ We simply run a PHP Server on port 8000 and connect it to five-server running on
 
 Open 2 terminals:
 
-1. Start PHP server: `php -S localhost:8000 -t www/`  
+1. Start PHP server: `php -S 127.0.0.1:8000 -t www/`  
    _If this gives an error, please install PHP first._
 2. Start five-server: `npx -y five-server@latest --port=5500 --open=http://localhost:8000`  
    _If this gives an error, please install Nodejs first._
